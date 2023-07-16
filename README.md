@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Vishnu vardhan
+![image](https://github.com/vishnuvardhancoder/vishnuvardhancoder/assets/98823582/09a5726c-9f44-4056-83f5-efca16897a4c)### Hi there 👋, I'm Vishnu vardhan
 #### Frontend Developer
-![Frontend Developer](https://github.com/vishnuvardhancoder/vishnuvardhancoder/blob/main/Beige%20Minimalist%20Closed%20Open%20Sign%20Landscape%20Poster.png)
+![Frontend Developer](https://github.com/vishnuvardhancoder/vishnuvardhancoder/blob/main/Screenshot%202023-07-16%20111653.png)
 
 I'm a passionate frontend developer from India, specializing in building user-friendly and visually appealing web applications. With a strong foundation in HTML, CSS, and JavaScript, I enjoy creating seamless user experiences and bringing designs to life.
 
