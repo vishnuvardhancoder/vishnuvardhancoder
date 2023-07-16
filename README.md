@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Vishnu vardhan
 #### Frontend Developer 
-![Frontend Developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Frontend Developer ]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://img.freepik.com/free-vector/little-boy-waving-hand_1308-20640.jpg?size=626&ext=jpg))
 
 I'm a passionate frontend developer from India, specializing in building user-friendly and visually appealing web applications. With a strong foundation in HTML, CSS, and JavaScript, I enjoy creating seamless user experiences and bringing designs to life.
 
