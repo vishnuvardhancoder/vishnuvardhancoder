@@ -1,13 +1,15 @@
 ![Frontend Developer](https://github.com/vishnuvardhancoder/vishnuvardhancoder/blob/main/Screenshot%202023-07-16%20111653.png)
 
 ### Hi there 👋, I'm **Vishnu vardhan**
-## Frontend Developer
+## Aspiring Full Stack Developer (MERN) | Frontend Developer | Problem Solver | Python & Blockchain Enthusiast | Available for Freelance Projects
 
-I'm a passionate frontend developer from India, specializing in building user-friendly and visually appealing web applications. With a strong foundation in HTML, CSS, and JavaScript, I enjoy creating seamless user experiences and bringing designs to life.
+Passionate about building responsive, user-friendly web applications, I am focused on frontend development while expanding my skills into full stack development. I have hands-on experience with HTML, CSS, JavaScript, and React for frontend development, and I am building my backend expertise with Node.js, Express, and MongoDB through beginner-level projects. Additionally, I am enthusiastic about Python programming and blockchain technology.
+
+Currently, I am actively seeking freelance opportunities where I can contribute my skills and grow as a developer. My goal is to deliver high-quality code and collaborate effectively within a team or individually.
 
 *Skills*:
 
-⚛️React
+⚛️React,Node js,Mongo DB,Express js
 
 💻HTML,CSS AND JS
 
