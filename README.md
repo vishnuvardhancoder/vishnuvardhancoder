@@ -16,4 +16,4 @@ Currently, I am actively seeking freelance opportunities where I can contribute 
 🐍Python
 
 
-[GitHub streak stats](https://streak-stats.demolab.com/?user=vishnuvardhancoder)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=vishnuvardhancoder)  
