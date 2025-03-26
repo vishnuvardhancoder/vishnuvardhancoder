@@ -1,4 +1,4 @@
-![Frontend Developer](https://github.com/vishnuvardhancoder/vishnuvardhancoder/blob/main/Screenshot%202023-07-16%20111653.png)
+![Full Stack Developer](https://github.com/vishnuvardhancoder/vishnuvardhancoder/blob/main/FULL%20STACK%20DEVELOPER.png)
 
 ### Hi there 👋, I'm **Vishnu vardhan**
 ### Full Stack Developer | Frontend Developer | Problem Solver | Python & Blockchain Enthusiast
