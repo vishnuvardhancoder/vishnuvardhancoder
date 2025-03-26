@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm **Vishnu vardhan**
 ### Full Stack Developer | Frontend Developer | Problem Solver | Python & Blockchain Enthusiast
 
-Passionate about building responsive, user-friendly web applications, I am focused on frontend development while expanding my skills into full stack development. I have hands-on experience with HTML, CSS, JavaScript, and React for frontend development, and I am building my backend expertise with Node.js, Express, and MongoDB through beginner-level projects. Additionally, I am enthusiastic about Python programming and blockchain technology.
+As a Full Stack Developer, I specialize in building responsive, user-friendly web applications with a seamless user experience. With expertise in frontend technologies such as HTML, CSS, JavaScript, and React, I create dynamic and visually appealing interfaces. On the backend, I work with Node.js, NestJS, Express, and PostgreSQL, along with MongoDB, to develop robust, scalable, and efficient applications. Additionally, I have a strong interest in Python programming and continuously explore new technologies to enhance my development skills.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishnuvardhancoder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
