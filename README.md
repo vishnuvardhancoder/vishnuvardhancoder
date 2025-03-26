@@ -1,9 +1,16 @@
 ![Frontend Developer](https://github.com/vishnuvardhancoder/vishnuvardhancoder/blob/main/Screenshot%202023-07-16%20111653.png)
 
 ### Hi there 👋, I'm **Vishnu vardhan**
-##Full Stack Developer | Frontend Developer | Problem Solver | Python & Blockchain Enthusiast
+### Full Stack Developer | Frontend Developer | Problem Solver | Python & Blockchain Enthusiast
 
 Passionate about building responsive, user-friendly web applications, I am focused on frontend development while expanding my skills into full stack development. I have hands-on experience with HTML, CSS, JavaScript, and React for frontend development, and I am building my backend expertise with Node.js, Express, and MongoDB through beginner-level projects. Additionally, I am enthusiastic about Python programming and blockchain technology.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnuvardhancoder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnuvardhancoder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 
 # 💻 Tech Stack:
